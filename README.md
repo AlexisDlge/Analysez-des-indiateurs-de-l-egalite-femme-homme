@@ -43,11 +43,11 @@ Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Lau
     Pièce jointe : 
       donnees_sirh.zip 
 
-**Données :**
-[donnees_sirh.zip ](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P7-datasets.zip)
-**Liens :**
-[Le site du ministère du Travail](https://travail-emploi.gouv.fr/IMG/pdf/guide_egalite_tpe_pme_2021.pdf)
-[présentation de lʼoutil Diagnostic Égalité](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Pre%CC%81sentation+outil+Diagnostic+E%CC%81galite%CC%81.pdf)
+**Données :** \
+[donnees_sirh.zip ](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P7-datasets.zip) \
+**Liens :** \
+[Le site du ministère du Travail](https://travail-emploi.gouv.fr/IMG/pdf/guide_egalite_tpe_pme_2021.pdf) \
+[présentation de lʼoutil Diagnostic Égalité](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Pre%CC%81sentation+outil+Diagnostic+E%CC%81galite%CC%81.pdf) \
 [RGPD](https://www.cnil.fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)
 
 <img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
