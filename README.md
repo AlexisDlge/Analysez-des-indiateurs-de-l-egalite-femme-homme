@@ -16,15 +16,21 @@ Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Lau
 
     Bonjour, 
 
-    Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important         d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
+    Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. 
+    Comme tu le sais, nous sommes en phase de croissance importante, 
+    et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet.
+    Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
 
-    J’aimerais donc que tu aides Vincent à automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes. Pour cela, il m’a suggéré l’utilisation de KNIME. J’aurais donc besoin que, à partir des fichiers des données (en pièce       jointe) issues de notre Système d’Informations des Ressources Humaines (SIRH), tu lui prépares :
+    J’aimerais donc que tu aides Vincent à automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes. 
+    Pour cela, il m’a suggéré l’utilisation de KNIME. J’aurais donc besoin que, 
+    à partir des fichiers des données (en pièce jointe) issues de notre Système d’Informations des Ressources Humaines (SIRH), tu lui prépares :
       ● un workflow avec le logiciel KNIME qui crée les graphiques du diagnostic ;
       ● un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
 
-    [Le site du ministère du Travail](https://travail-emploi.gouv.fr/IMG/pdf/guide_egalite_tpe_pme_2021.pdf) donne de nombreuses informations pour établir un diagnostic. Regarde notamment le document de [présentation de lʼoutil Diagnostic Égalité](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Pre%CC%81sentation+outil+Diagnostic+E%CC%81galite%CC%81.pdf) dans lequel tu trouveras une liste des indicateurs à surveiller. Pas besoin de tout 
-    les extraire, mais dans un premier temps choisis-en au minimum 5 dans la liste que ton workflow devra générer.
-    Aussi, je te rappelle que les données issues du SIRH ne sont pas anonymisées, alors il faudra les traiter pour que ton rapport [respecte le RGPD](https://www.cnil.fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part).
+    Le site du ministère du Travail donne de nombreuses informations pour établir un diagnostic. 
+    Regarde notamment le document de présentation de lʼoutil Diagnostic Égalité dans lequel tu trouveras une liste des indicateurs à surveiller. 
+    Pas besoin de tout les extraire, mais dans un premier temps choisis-en au minimum 5 dans la liste que ton workflow devra générer.
+    Aussi, je te rappelle que les données issues du SIRH ne sont pas anonymisées, alors il faudra les traiter pour que ton rapport respecte le RGPD.
 
     Dès que tu auras terminé, nous ferons un point ensemble avec Vincent pour que tu nous présentes le fonctionnement de ton workflow ainsi que les graphiques générés.
     Je reste à ta disposition en cas de besoin.
@@ -39,7 +45,10 @@ Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Lau
 
 **Données :**
 [donnees_sirh.zip ](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P7-datasets.zip)
-
+**Liens :**
+[Le site du ministère du Travail](https://travail-emploi.gouv.fr/IMG/pdf/guide_egalite_tpe_pme_2021.pdf)
+[présentation de lʼoutil Diagnostic Égalité](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Pre%CC%81sentation+outil+Diagnostic+E%CC%81galite%CC%81.pdf)
+[RGPD](https://www.cnil.fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)
 
 <img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
 
